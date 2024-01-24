@@ -9,3 +9,5 @@ Exercícios alternativos de JavaScript sendo realizados neste repositório.
 4. - [x] Interagindo com partes HTML (DOM)
 5. - [x] Manipulando números
 6. - [x] Somando dois números
+7. - [x] Calculando a média de um aluno
+8. - [ ] Várias cálculos em JS
