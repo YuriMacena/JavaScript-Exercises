@@ -10,4 +10,6 @@ Exercícios alternativos de JavaScript sendo realizados neste repositório.
 5. - [x] Manipulando números
 6. - [x] Somando dois números
 7. - [x] Calculando a média de um aluno
-8. - [ ] Várias cálculos em JS
+8. - [x] Várias cálculos em JS
+9. - [x] Contador de cliques
+10. - [ ] Usando um JavaScript externo
