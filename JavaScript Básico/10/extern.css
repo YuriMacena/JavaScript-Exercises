@@ -6,6 +6,7 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-button { 
+button {
+    font-size: medium;
     padding: 30px;
 }
