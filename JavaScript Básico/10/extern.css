@@ -1,0 +1,11 @@
+body {
+    font: 13pt arial;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button { 
+    padding: 30px;
+}
