@@ -2,7 +2,7 @@
 
 Exercícios alternativos de JavaScript sendo realizados neste repositório.
 
-## Nível 1
+## JavaScript Básico
 1. - [x] Olá, mundo!
 2. - [x] Interação com botão
 3. - [x] Usando prompt e alert
@@ -12,4 +12,7 @@ Exercícios alternativos de JavaScript sendo realizados neste repositório.
 7. - [x] Calculando a média de um aluno
 8. - [x] Várias cálculos em JS
 9. - [x] Contador de cliques
-10. - [ ] Usando um JavaScript externo
+10. - [x] Usando um JavaScript externo
+
+## Condições em JS
+11. - [x] Calculando a média de um aluno (v2.0)
