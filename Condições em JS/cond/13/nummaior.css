@@ -1,0 +1,12 @@
+body{
+    font: 12pt arial;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button{
+    font-size: 12pt;
+    padding: 30px;
+}
