@@ -16,3 +16,8 @@ Exercícios alternativos de JavaScript sendo realizados neste repositório.
 
 ## Condições em JS
 11. - [x] Calculando a média de um aluno (v2.0)
+12. - [x] É par ou ímpar?
+13. - [x] Qual é o maior?
+14. - [x] Interagindo com o sistema
+15. - [x] Analisando date e hora
+16. - [ ] Calculando a idade
