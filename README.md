@@ -1,6 +1,6 @@
 # Javascript Exercises
 
-Exercícios alternativos de JavaScript sendo realizados neste repositório.
+Exercícios alternativos de JavaScript sendo realizados neste repositório. A pasta "Rept Ex" é a prática contínua de exercícios do repositório "Curso de JS".
 
 ## JavaScript Básico
 1. - [x] Olá, mundo!
