@@ -10,3 +10,8 @@ function contar(){
     }
     res.innerHTML += `🏁`
 }
+
+function erase(){
+    res = document.getElementById('result')
+    res.innerHTML = ''
+}
