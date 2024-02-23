@@ -4,4 +4,5 @@ body {
 
 input {
     padding: 30px;
+    cursor: pointer;
 }
