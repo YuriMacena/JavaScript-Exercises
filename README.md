@@ -21,10 +21,10 @@ Exercícios alternativos de JavaScript sendo realizados neste repositório. A pa
 14. - [x] Interagindo com o sistema
 15. - [x] Analisando date e hora
 16. - [x] Calculando a idade
-17. - [ ] Sorteador de números
-18. - [ ] Jogo da adivinhação
+17. - [x] Sorteador de números
+18. - [x] Jogo da adivinhação
 19. - [x] O usuário escolhe o cálculo
-20. - [ ] Estações de ano
+20. - [x] Estações do ano
 
 ## Repetições em JS
 21. - [x] Contando de 1 até 10
