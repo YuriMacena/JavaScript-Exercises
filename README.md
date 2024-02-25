@@ -20,4 +20,18 @@ Exercícios alternativos de JavaScript sendo realizados neste repositório. A pa
 13. - [x] Qual é o maior?
 14. - [x] Interagindo com o sistema
 15. - [x] Analisando date e hora
-16. - [ ] Calculando a idade
+16. - [x] Calculando a idade
+17. - [ ] Sorteador de números
+18. - [ ] Jogo da adivinhação
+19. - [x] O usuário escolhe o cálculo
+20. - [ ] Estações de ano
+
+## Repetições em JS
+21. - [x] Contando de 1 até 10
+22. - [x] Contando de 1 até 10 (marcando os pares)
+23. - [x] Contando de 1 até 10 (mostrando só os pares)
+24. - [ ] Contagem regressiva de 10 até 1
+25. - [ ] Pegando dados de um formulário
+26. - [ ] Contagem mais "inteligente"
+27. - [ ] Tabuada
+28. - [ ] Fatorial de um número
