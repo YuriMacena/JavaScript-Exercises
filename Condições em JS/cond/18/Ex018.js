@@ -17,7 +17,7 @@ function jogar(){
     } else if (player > comp) {
         res.innerHTML += `<p>Você escreveu o número ${player}, meu número é <strong>MENOR!</strong></p>`
     } else if (player == comp) {
-        res.innerHTML += `<p>Você escreveu o número ${player}, <strong>PARABÉNS!</strong> você acertou o meu número.</p>`
+        res.innerHTML += `<p>Você escreveu o número ${player}, <strong>PARABÉNS!</strong> Você acertou o meu número.</p>`
         document.getElementById('botao').style.visibility = 'hidden'
     }
 }
