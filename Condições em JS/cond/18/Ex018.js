@@ -6,8 +6,8 @@ function sortear(){
     let min = 1
     let max = 100
     let dif = max - min
-    let randow = Math.random()
-    comp = min + Math.trunc(dif * randow)
+    let random = Math.random()
+    comp = min + Math.trunc(dif * random)
 }
 
 function jogar(){
