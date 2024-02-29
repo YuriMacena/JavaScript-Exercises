@@ -33,5 +33,5 @@ Exercícios alternativos de JavaScript sendo realizados neste repositório. A pa
 24. - [x] Contagem regressiva de 10 até 1
 25. - [ ] Pegando dados de um formulário
 26. - [ ] Contagem mais "inteligente"
-27. - [ ] Tabuada
+27. - [x] Tabuada
 28. - [ ] Fatorial de um número
