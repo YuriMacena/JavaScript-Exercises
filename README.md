@@ -31,7 +31,7 @@ Exercícios alternativos de JavaScript sendo realizados neste repositório. A pa
 22. - [x] Contando de 1 até 10 (marcando os pares)
 23. - [x] Contando de 1 até 10 (mostrando só os pares)
 24. - [x] Contagem regressiva de 10 até 1
-25. - [ ] Pegando dados de um formulário
-26. - [ ] Contagem mais "inteligente"
+25. - [x] Pegando dados de um formulário
+26. - [x] Contagem mais "inteligente"
 27. - [x] Tabuada
-28. - [ ] Fatorial de um número
+28. - [x] Fatorial de um número
